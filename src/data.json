@@ -35,10 +35,9 @@
     "linkCode": "https://github.com/qooqu/bubbletask",
     "description": "simple task tracking for teams",
     "bullets": [
-      "full stack app, hand coded with node, express, mongo, passport, and react",
-      "front end hosted on netlify with CD from github",
-      "express app hosted on heroku*, db hosted on atlas",
-      "* heroku killed this app. stay tuned."
+      "full stack rails 8 app with hotwire (turbo streams + stimulus) and sqlite",
+      "deployed with kamal and docker to a vps, behind haproxy with let's encrypt ssl",
+      "github actions ci gates every merge and every deploy"
     ],
     "image": "bubble-task.png"
   },
