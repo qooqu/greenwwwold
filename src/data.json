@@ -1,5 +1,17 @@
 [
   {
+    "title": "bubble task",
+    "linkLive": "https://bubbletask.greenwold.com/",
+    "linkCode": "https://github.com/qooqu/bubbletask",
+    "description": "simple task tracking for teams",
+    "bullets": [
+      "full stack rails 8 app with hotwire (turbo streams + stimulus) and sqlite",
+      "deployed with kamal and docker to a vps, behind haproxy with let's encrypt ssl",
+      "github actions ci gates every merge and every deploy"
+    ],
+    "image": "bubble-task.png"
+  },
+  {
     "title": "bluegrass bass",
     "linkLive": "https://bass.greenwold.com/",
     "linkCode": "https://github.com/qooqu/bass",
@@ -28,18 +40,6 @@
     "description": "this page",
     "bullets": ["a little web portfolio", "astro, tailwind, and netlify"],
     "image": "greenwwwold.png"
-  },
-  {
-    "title": "bubble task",
-    "linkLive": "https://bubbletask.greenwold.com/",
-    "linkCode": "https://github.com/qooqu/bubbletask",
-    "description": "simple task tracking for teams",
-    "bullets": [
-      "full stack rails 8 app with hotwire (turbo streams + stimulus) and sqlite",
-      "deployed with kamal and docker to a vps, behind haproxy with let's encrypt ssl",
-      "github actions ci gates every merge and every deploy"
-    ],
-    "image": "bubble-task.png"
   },
   {
     "title": "bouncy",
